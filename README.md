@@ -1,0 +1,2 @@
+# simpleCookieClicker
+CookieClicker
